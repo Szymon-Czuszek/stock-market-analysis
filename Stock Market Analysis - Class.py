@@ -28,6 +28,10 @@ class StockMarketAnalysis:
     def __init__(self, name, data_file):
         """
         Initialize the StockMarketAnalysis class with data from a CSV file.
+
+        Parameters:
+        - name (str): Name of the analysis.
+        - data_file (str): Path to the CSV file containing stock market data.
         """
         self.name = name
         self.data = pd.read_csv(data_file,
