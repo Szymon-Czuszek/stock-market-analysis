@@ -21,6 +21,9 @@ import matplotlib.ticker as ticker
 
 # Building the StockMarketAnalysis Class
 class StockMarketAnalysis:
+    """
+    Class for analyzing stock market data and generating visualizations.
+    """
     
     def __init__(self, name, data_file):
         """
