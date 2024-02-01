@@ -176,6 +176,13 @@ class StockMarketAnalysis:
     def plot_candlestick_chart_vs_volume(self, ax = None):
         """
         Plot a candlestick chart with a volume bar chart on a secondary y-axis.
+
+        Parameters:
+        - ax (matplotlib.axes._subplots.AxesSubplot): The subplot to plot on.
+          If None, a new subplot will be created.
+
+        Returns:
+        - None
         """
         if ax is None:
             fig, ax = plt.subplots(figsize = (10, 5))
