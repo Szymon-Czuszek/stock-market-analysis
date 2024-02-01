@@ -69,6 +69,9 @@ class StockMarketAnalysis:
     def calculate_open_std(self):
         """
         Calculate the standard deviation of open prices.
+
+        Returns:
+        - float: Standard deviation of open prices.
         """
         open_std = np.std(self.data["Open"])
         return round(open_std, 2)
