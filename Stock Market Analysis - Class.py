@@ -79,6 +79,13 @@ class StockMarketAnalysis:
     def format_y_labels(self, value, pos):
         """
         Format y-axis labels for thousands, millions, and billions.
+
+        Parameters:
+        - value (float): The tick value.
+        - pos (int): The tick position.
+
+        Returns:
+        - str: Formatted tick label.
         """
         if value >= 1e9:
             return f"{value / 1e9:.2f}B"
