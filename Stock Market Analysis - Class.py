@@ -270,6 +270,13 @@ class StockMarketAnalysis:
     def plot_close_price_evolution(self, ax = None):
         """
         Plot the evolution of close prices with shaded price range.
+
+        Parameters:
+        - ax (matplotlib.axes._subplots.AxesSubplot): The subplot to plot on.
+          If None, a new subplot will be created.
+
+        Returns:
+        - None
         """
         if ax is None:
             fig, ax = plt.subplots(figsize = (10, 5))
