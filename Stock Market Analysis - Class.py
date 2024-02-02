@@ -371,6 +371,13 @@ class StockMarketAnalysis:
     def plot_combined_graph(self, plot_type = "both"):
         """
         Plot a combination of candlestick, close price, and volume graphs.
+
+        Parameters:
+        - plot_type (str): Type of graphs to include. Options: "candlestick", "close_price",
+          "candlestick_vs_volume", "volume_distribution", "both". Default is "both".
+
+        Returns:
+        - None
         """
         
         # Creating a 2x2 grid of subplots
