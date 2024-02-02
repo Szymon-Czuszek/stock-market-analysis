@@ -35,5 +35,12 @@ Download the data from the provided source or use your dataset.
 Create an instance of the StockMarketAnalysis class.
 Utilize the functions within the class to analyze and visualize the stock market data.
 
+## Example Code
+
+```python
+wig20_aug = StockMarketAnalysis("WIG20 - August 2023", "your_data.csv")
+wig20_aug.plot_combined_graph(plot_type="both")
+```
+
 License: 
 This project is licensed under the MIT License.
