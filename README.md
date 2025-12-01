@@ -8,7 +8,7 @@ The main goal of this project is to perform in-depth analysis on the WIG20 index
 🌐 Data Source: 
 The data for this project was sourced from https://stooq.pl
 
-Project Structure: 
+🏗️ Project Structure: 
 StockMarketAnalysis Class - 
 A custom Python class StockMarketAnalysis has been developed to facilitate the analysis and visualization of stock market data.
 
