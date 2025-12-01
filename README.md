@@ -11,7 +11,7 @@ The data for this project was sourced from https://stooq.pl
 🏗️ Project Structure: 
 🧱 StockMarketAnalysis Class - A custom Python class StockMarketAnalysis has been developed to facilitate the analysis and visualization of stock market data.
 
-Functions:
+🧮 Functions:
 calculate_median_spread: Calculates the median spread between high and low prices.
 calculate_open_std: Computes the standard deviation of open prices.
 format_y_labels: Formats y-axis labels for thousands, millions, and billions.
