@@ -19,7 +19,7 @@ The data for this project was sourced from https://stooq.pl
 - 📊 plot_candlestick_chart_vs_volume: Produces a candlestick chart with a volume bar chart on a secondary y-axis.
 - 📈 plot_close_price_evolution: Plots the evolution of close prices with a shaded price range.
 - 📦 plot_volume_distribution: Illustrates the distribution of trading volume per weekday.
-plot_combined_graph: Combines various plots into a single graph.
+- 🧷 plot_combined_graph: Combines various plots into a single graph.
 
 Example Usage: 
 An instance of the StockMarketAnalysis class is created using the provided data. Basic statistics are calculated and visualizations, such as candlestick charts, volume distributions, and close price evolution, are generated to provide comprehensive insights into the WIG20 index for August 2023.
