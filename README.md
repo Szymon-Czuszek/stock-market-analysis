@@ -18,7 +18,7 @@ The data for this project was sourced from https://stooq.pl
 - 🕯️ plot_candlestick_chart: Generates a candlestick chart.
 - 📊 plot_candlestick_chart_vs_volume: Produces a candlestick chart with a volume bar chart on a secondary y-axis.
 - 📈 plot_close_price_evolution: Plots the evolution of close prices with a shaded price range.
-plot_volume_distribution: Illustrates the distribution of trading volume per weekday.
+- 📦 plot_volume_distribution: Illustrates the distribution of trading volume per weekday.
 plot_combined_graph: Combines various plots into a single graph.
 
 Example Usage: 
