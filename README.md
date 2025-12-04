@@ -25,7 +25,7 @@ The data for this project was sourced from https://stooq.pl
 💡 An instance of the StockMarketAnalysis class is created using the provided data. Basic statistics are calculated and visualizations, such as candlestick charts, volume distributions, and close price evolution, are generated to provide comprehensive insights into the WIG20 index for August 2023.
 
 💻 Example Code: 
-wig20_aug = StockMarketAnalysis("WIG20 - August 2023", "your_data.csv")
+🔽 wig20_aug = StockMarketAnalysis("WIG20 - August 2023", "your_data.csv")
 wig20_aug.plot_combined_graph(plot_type="both")
 
 Usage: 
