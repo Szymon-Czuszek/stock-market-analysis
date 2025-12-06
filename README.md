@@ -2,7 +2,7 @@
 
 🔀 This project involves the analysis of stock market data for the WIG20 index in August 2023 while creating a reusable Python Class.
 
-🧰 Overview: 
+## 🧰 Overview: 
 The main goal of this project is to perform in-depth analysis on the WIG20 index using stock market data obtained from an online source. The data spans the period from August 1, 2023, to August 31, 2023. The primary focus is on visualizing the data using various graphical representations and calculating essential statistical measures.
 
 🌐 Data Source: 
