@@ -1,4 +1,4 @@
-🤝 Exploring Stock Market Data
+# 🤝 Exploring Stock Market Data
 
 🔀 This project involves the analysis of stock market data for the WIG20 index in August 2023 while creating a reusable Python Class.
 
