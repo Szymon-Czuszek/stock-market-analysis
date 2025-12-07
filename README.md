@@ -34,7 +34,7 @@ The data for this project was sourced from https://stooq.pl
 🏛️ Create an instance of the StockMarketAnalysis class.
 🔒 Utilize the functions within the class to analyze and visualize the stock market data.
 
-## Example Code
+## 📄 Example Code
 
 ```python
 wig20_aug = StockMarketAnalysis("WIG20 - August 2023", "your_data.csv")
