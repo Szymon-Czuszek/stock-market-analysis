@@ -41,5 +41,5 @@ wig20_aug = StockMarketAnalysis("WIG20 - August 2023", "your_data.csv")
 wig20_aug.plot_combined_graph(plot_type="both")
 ```
 
-📜 License: 
+## 📜 License: 
 This project is licensed under the MIT License.
