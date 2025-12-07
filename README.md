@@ -42,4 +42,4 @@ wig20_aug.plot_combined_graph(plot_type="both")
 ```
 
 ## 📜 License: 
-This project is licensed under the MIT License.
+🏛️ This project is licensed under the MIT License.
