@@ -7,7 +7,7 @@
 - The primary focus is on visualizing the data using various graphical representations and calculating essential statistical measures.
 
 ## 🌐 Data Source: 
-The data for this project was sourced from https://stooq.pl
+- The data for this project was sourced from https://stooq.pl
 
 ## 🏗️ Project Structure: 
 🧱 StockMarketAnalysis Class - A custom Python class StockMarketAnalysis has been developed to facilitate the analysis and visualization of stock market data.
