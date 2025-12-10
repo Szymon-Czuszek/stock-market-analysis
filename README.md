@@ -27,7 +27,7 @@
 
 ## 💻 Example Code: 
 - 🔽 wig20_aug = StockMarketAnalysis("WIG20 - August 2023", "your_data.csv")
-📄 wig20_aug.plot_combined_graph(plot_type="both")
+- 📄 wig20_aug.plot_combined_graph(plot_type="both")
 
 🛠️ Usage: 
 📝 Obtain the necessary libraries and dependencies.
