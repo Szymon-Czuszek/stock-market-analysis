@@ -32,7 +32,7 @@
 ## 🛠️ Usage: 
 - 📝 Obtain the necessary libraries and dependencies.
 - 🚀 Download the data from the provided source or use your dataset.
-🏛️ Create an instance of the StockMarketAnalysis class.
+- 🏛️ Create an instance of the StockMarketAnalysis class.
 🔒 Utilize the functions within the class to analyze and visualize the stock market data.
 
 ## 📄 Example Code
